@@ -1,0 +1,10 @@
+Your identification has been saved in C:\Users\Sparsh/.ssh/terraform_dev_env_key
+Your public key has been saved in C:\Users\Sparsh/.ssh/terraform_dev_env_key.pub
+
+
+# steps for creating a route table for a subnet :
+# step 1. Create a Subnet 
+# (the subnet is automatically connected to a default route table, it is default behaviour of terraform)
+# Step 2. Create a route table
+# Step 3. Create a route for the route table you have created
+# Step 4. Associate the subnet with the newly created route table
