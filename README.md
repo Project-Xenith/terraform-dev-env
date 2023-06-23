@@ -1,6 +1,6 @@
 # terraform-dev-env
 
-This is a basic terraform project wihtin which I have tried to create the following things :
+This is a basic terraform project within which I have tried to create the following things :
 
 Resources :
     1. VPC
